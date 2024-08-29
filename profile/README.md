@@ -67,30 +67,8 @@
 ## [프로젝트 설계](#목차)
 
 ### 시스템 아키텍쳐
+<img src="../resource/img/아키텍쳐.png" />
 
-<table>
-  <tr>
-    <td style="text-align:center;">
-      <img src="../resource/img/아키텍쳐.png" />
-    </td>
-    <td style="text-align:center;">
-      <img src="../resource/img/서비스.png" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <img src="../resource/img/CICD.png" />
-    </td>
-    <td style="text-align:center;">
-      <img src="../resource/img/Blue-Green-Deployment.png" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <img src="../resource/img/모니터링.png" />
-    </td>
-  </tr>
-</table>
 
 <br/>
 
