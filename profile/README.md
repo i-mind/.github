@@ -1,7 +1,7 @@
 # 모두의 심리상담, 싱크미
 
 <br/>
-<img src="../resources/img/main.png />
+<img src="../resource/img/main.png />
 <br/><br/>
 
 > 싱크미는 심리상담사분들의 업무를 도와드리는 업무 툴 입니다.
@@ -61,7 +61,7 @@
 <br/>
 
 ## [서비스 소개](#목차)
-<img src="../resources/img/서비스.png" />
+<img src="../resource/img/서비스.png" />
 
 
 ## [프로젝트 설계](#목차)
@@ -71,23 +71,23 @@
 <table>
   <tr>
     <td style="text-align:center;">
-      <img src="../resources/img/아키텍쳐.png" />
+      <img src="../resource/img/아키텍쳐.png" />
     </td>
     <td style="text-align:center;">
-      <img src="../resources/img/서비스.png" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <img src="../resources/img/CICD.png" />
-    </td>
-    <td style="text-align:center;">
-      <img src="../resources/img/Blue-Green-Deployment.png" />
+      <img src="../resource/img/서비스.png" />
     </td>
   </tr>
   <tr>
     <td style="text-align:center;">
-      <img src="../resources/img/모니터링.png" />
+      <img src="../resource/img/CICD.png" />
+    </td>
+    <td style="text-align:center;">
+      <img src="../resource/img/Blue-Green-Deployment.png" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
+      <img src="../resource/img/모니터링.png" />
     </td>
   </tr>
 </table>
